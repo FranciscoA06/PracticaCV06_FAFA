@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-
+        static void main(string[] args) {
         // CONSTANTES
 
         // VARIABLES
@@ -12,6 +12,8 @@
         // PROCESO
 
         // SALIDA
+        Console.WriteLine("Mi Nombre es FAFA:");
 
+        }
     }
 }
